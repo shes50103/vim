@@ -10,6 +10,7 @@ Plug 'tpope/vim-surround'
 Plug 'tomtom/tcomment_vim'
 Plug 'vim-ruby/vim-ruby'
 Plug 'tpope/vim-rails'
+Plug 'thoughtbot/vim-rspec'
 
 call plug#end()
 
