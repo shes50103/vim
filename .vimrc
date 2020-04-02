@@ -18,6 +18,7 @@ Plug 'garbas/vim-snipmate'
 
 " Optional:
 Plug 'honza/vim-snippets'
+Plug 'majutsushi/tagbar'
 
 call plug#end()
 
