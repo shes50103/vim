@@ -20,6 +20,10 @@ Plug 'garbas/vim-snipmate'
 Plug 'honza/vim-snippets'
 Plug 'majutsushi/tagbar'
 Plug 'mileszs/ack.vim'
+" Color
+Plug 'morhetz/gruvbox'
+Plug 'tomasr/molokai'
+Plug 'vim-scripts/wombat256.vim'
 
 call plug#end()
 
@@ -32,3 +36,12 @@ nmap <S-TAB> <<
 vmap <S-TAB> <
 imap jj <ESC>
 nmap <Enter> o
+"-----------
+" ColorSchema
+"-----------
+syntax on
+
+try 
+  colorscheme gruvbox
+catch
+endtry
