@@ -7,6 +7,7 @@ Plug 'preservim/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-surround'
+Plug 'tomtom/tcomment_vim'
 
 call plug#end()
 
