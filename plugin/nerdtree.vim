@@ -1,4 +1,4 @@
-nnoremap <silent> <F2> :NERDTreeToggle<Enter>
+nnoremap <leader>2 :NERDTreeToggle<Enter>
 let NERDTreeMinimalUI = 1
 let NERDTreeMode = 2
 
